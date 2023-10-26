@@ -30,9 +30,11 @@ The following are the team members that share a common interest with me.
 
 # Location
 
--> The Code is located under the ProgAssign1 Directory
--> The Logs are stored in the ProgAssign1/ProgAssign1/logs/logs.txt file
--> The Output Csv is stored in the ProgAssign1/ProgAssign1/Output/output.csv file
+-> The Code is located under the ProgAssign1 Directory.
+
+-> The Logs are stored in the ProgAssign1/logs/logs.txt file.
+
+-> The Output Csv is stored in the ProgAssign1/Output/output.csv file.
 
 # Introduction
 This C# program is designed to traverse a directory structure containing CSV files and store the data in a single CSV file. The CSV files are expected to contain customer information with specific data columns.
@@ -40,10 +42,16 @@ This C# program is designed to traverse a directory structure containing CSV fil
 # Program Features
 
 -> Directory Traversal: The program recursively traverses the specified directory structure.
+
 -> CSV Manager: The program can read and write in the CSV files. CSVHelper Library is used to write the Data in the CSV file.
+
 -> Logging: The program utilizes logging to capture informational messages and all possible checked exceptions.
+
 -> Data Validation: It skips lines with incomplete records, rows with unmatched datatypes and failing validation for each column and logs them as skipped rows.
+
 -> Logging Output: The program logs the total execution time, the total number of valid rows, and the total number of skipped rows.
+
+
 -> Data Columns: The program expects CSV files with the following data columns:
 - First Name
 - Last Name
