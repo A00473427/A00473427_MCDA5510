@@ -1,0 +1,34 @@
+/Users/dv/Downloads/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker
+/Users/dv/Downloads/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker.deps.json
+/Users/dv/Downloads/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker.runtimeconfig.json
+/Users/dv/Downloads/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker.dll
+/Users/dv/Downloads/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker.pdb
+/Users/dv/Downloads/ProgAssign1/bin/Debug/net6.0/CsvHelper.dll
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.csproj.AssemblyReference.cache
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.AssemblyInfoInputs.cache
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.AssemblyInfo.cs
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.csproj.CoreCompileInputs.cache
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.csproj.CopyComplete
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.dll
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/refint/Assignment1_dirwalker.dll
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.pdb
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.genruntimeconfig.cache
+/Users/dv/Downloads/ProgAssign1/obj/Debug/net6.0/ref/Assignment1_dirwalker.dll
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker.deps.json
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker.runtimeconfig.json
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker.dll
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/bin/Debug/net6.0/Assignment1_dirwalker.pdb
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/bin/Debug/net6.0/CsvHelper.dll
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.csproj.AssemblyReference.cache
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.AssemblyInfoInputs.cache
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.AssemblyInfo.cs
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.csproj.CoreCompileInputs.cache
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.csproj.CopyComplete
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.dll
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/refint/Assignment1_dirwalker.dll
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.pdb
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/Assignment1_dirwalker.genruntimeconfig.cache
+/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/obj/Debug/net6.0/ref/Assignment1_dirwalker.dll

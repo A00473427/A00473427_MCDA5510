@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8K66EE7CjO9fJt3JjDT9iqECHnuGiEitGMcXOVOUgIfaGCXUTb/wJG5Pzc1OMRMSDaoM3M1w056na4Vw10LZQ==",
+  "success": true,
+  "projectFilePath": "/Users/dv/Documents/Class Projects/MCDA5510/A00473427_MCDA5510/ProgAssign1/Assignment1_dirwalker.csproj",
+  "expectedPackageFiles": [
+    "/Users/dv/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

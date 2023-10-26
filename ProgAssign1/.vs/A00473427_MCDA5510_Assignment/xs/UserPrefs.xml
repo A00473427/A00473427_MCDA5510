@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7114C048-C14C-4BB0-9969-931D8D60F900}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment1__dirwalker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSVParser.cs">
+    <Files>
+      <File FileName="Program.cs" Line="36" Column="92" />
+      <File FileName="Attributes.cs" />
+      <File FileName="EmptyClass.cs" />
+      <File FileName="CSVParser.cs" Line="61" Column="90" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A00473427_MCDA5510_Assignment" expanded="True">
+            <Node name="Assignment1_dirwalker" expanded="True">
+              <Node name="CSVParser.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

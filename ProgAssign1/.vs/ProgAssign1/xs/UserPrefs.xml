@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7114C048-C14C-4BB0-9969-931D8D60F900}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParseCSV.cs">
+    <Files>
+      <File FileName="Program.cs" Line="46" Column="6" />
+      <File FileName="TraverseDirectories.cs" Line="31" Column="36" />
+      <File FileName="ParseCSV.cs" Line="25" Column="1" />
+      <File FileName="DirectoryHandler.cs" Line="1" Column="1" />
+      <File FileName="Attributes.cs" Line="1" Column="1" />
+      <File FileName="CountManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgAssign1" expanded="True">
+            <Node name="ProgAssign1" expanded="True">
+              <Node name="ParseCSV.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProgAssign1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
